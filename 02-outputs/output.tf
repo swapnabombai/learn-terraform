@@ -5,6 +5,6 @@ output "sample" {
 ##single quotes are not supported
 
 output "sample1" {
-  value = "1000"
+  value = 1000
 }
 # numbers and booleans (trie,false)
